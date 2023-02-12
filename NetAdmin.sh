@@ -101,4 +101,4 @@ case $choice in
      echo "Ungültige Eingabe. Bitte wählen Sie eine Nummer von 1 bis 7."
      ;;
 esac
-/bin/sh
+/bin/bash
